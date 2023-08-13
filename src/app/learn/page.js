@@ -1,5 +1,5 @@
-import LangCart from "../../components/LangCard";
-import Learn from "../../components/Learn";
+import LangCart from "../components/LangCard";
+import Learn from "../components/Learn";
 const LearnPage = () => {
   return (
     <>

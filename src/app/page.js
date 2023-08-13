@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import supabase from '../../supabase';
-import Login from '../components/Login';
+import Login from './components/Login';
 
 
 

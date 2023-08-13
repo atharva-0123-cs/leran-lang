@@ -1,6 +1,6 @@
 'use client'
 import { Suspense } from 'react'
-import SideBar from '../components/SideBar'
+import SideBar from './components/SideBar'
 import './globals.css'
 import { Inter } from 'next/font/google'
 import Loading from './loading'

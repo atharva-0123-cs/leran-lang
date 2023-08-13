@@ -2,7 +2,7 @@
 import '@/app/globals.css'
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import supabase from "../../supabase";
+import supabase from "../../../supabase";
 
 const Login = () => {
 
