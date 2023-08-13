@@ -1,4 +1,6 @@
 import LangCard from "./LangCard";
+import '@/app/globals.css'
+
 const Learn = () => {
   return (
     <div>

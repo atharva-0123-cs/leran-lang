@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import TopicCard from "@/app/components/TopicCard";
+import TopicCard from "@/components/TopicCard";
 
 const TOPICS = [
   {

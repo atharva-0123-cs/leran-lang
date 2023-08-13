@@ -1,6 +1,7 @@
 'use client'
 // const { default: Link } = require("next/link");
 import Link from "next/link";
+import '@/app/globals.css'
 import { usePathname } from "next/navigation";
 import {BiSolidBook} from 'react-icons/bi'
 import {BsPersonCircle} from 'react-icons/bs';

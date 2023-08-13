@@ -1,4 +1,6 @@
 import Link from "next/link";
+import '@/app/globals.css'
+
 
 const TopicCard = ({ topic, langName }) => {
   return (

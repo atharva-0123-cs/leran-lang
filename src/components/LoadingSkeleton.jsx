@@ -1,4 +1,5 @@
 import classes from "./LoadingSkeleton.module.css";
+import '@/app/globals.css'
 
 const LoadingSkeleton = () => {
   return (

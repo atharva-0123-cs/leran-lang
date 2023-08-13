@@ -1,7 +1,7 @@
 'use client'
 import Link from 'next/link';
 import {BsArrowRightCircleFill} from 'react-icons/bs';
-
+import '@/app/globals.css'
 
 const LangCart = ({title,detail,link}) => {
   return (
