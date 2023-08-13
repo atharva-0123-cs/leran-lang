@@ -1,4 +1,12 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    experimental: {
+      mdxRs: true,
+      appDir: true,
+    },
+  }
+   
+  const withMDX = require('@next/mdx')()
+  module.exports = withMDX(nextConfig)
 
-module.exports = nextConfig
+
