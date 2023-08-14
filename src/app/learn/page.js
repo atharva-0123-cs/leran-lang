@@ -20,7 +20,7 @@ const LearnPage = () => {
               although it can also be utilized in other contexts like server-side scripting and desktop applications through frameworks like Node.js.
               It allows developers to add interactivity,
               manipulate the Document Object Model (DOM), handle events, and create dynamic content on web pages."
-            link="learn/javascrpit"
+            link="learn/javascipt"
           />
         </div>
       </div>
